@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title desc">
+<title id="title">CERTIFICATIONS &amp; SKILLS</title><desc id="desc">Pastel pink floral section heading for Daisy Alemán's GitHub profile.</desc>
+<defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#fff9f4"/>
+        <stop offset="48%" stop-color="#ffeaf2"/>
+        <stop offset="100%" stop-color="#f7c9dc"/>
+      </linearGradient>
+      <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#e9a5c0"/>
+        <stop offset="55%" stop-color="#f7d4e1"/>
+        <stop offset="100%" stop-color="#e9a5c0"/>
+      </linearGradient>
+    </defs>
+<rect x="3" y="3" width="1194" height="124" rx="24" fill="url(#bg)" stroke="#f0c4d5" stroke-width="2"/>
+<path d="M0 100 Q200 70 365 109 T730 103 T1200 93 L1200 130 L0 130Z" fill="#f3c1d5" opacity=".45"/>
+<circle cx="72" cy="65" r="43" fill="#fffaf2" opacity=".8"/>
+<g transform="translate(72 65) rotate(0) scale(0.9)" opacity="1">
+      <ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(0)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(36)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(72)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(108)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(144)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(180)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(216)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(252)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(288)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#f0bdd2" transform="rotate(324)"/>
+      <circle r="8.5" fill="#edc466"/>
+      <circle cx="-2.3" cy="-2" r="1.3" fill="#fff4c7" opacity=".85"/>
+    </g>
+<g transform="translate(119 70) rotate(14) scale(0.63)" opacity="0.85">
+      <path d="M0 35 Q7 15 1 -10" fill="none" stroke="#9dbc9c" stroke-width="2.6" stroke-linecap="round"/>
+      <ellipse cx="-6" cy="16" rx="4" ry="10" transform="rotate(-42 -6 16)" fill="#9dbc9c"/>
+      <ellipse cx="8" cy="6" rx="4" ry="10" transform="rotate(42 8 6)" fill="#9dbc9c"/>
+      <ellipse cx="-4" cy="-4" rx="3.5" ry="8" transform="rotate(-35 -4 -4)" fill="#9dbc9c"/>
+    </g>
+<g transform="translate(1125 49) rotate(-12) scale(0.72)" opacity="0.95">
+      <ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(0)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(36)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(72)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(108)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(144)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(180)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(216)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(252)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(288)"/><ellipse cx="0" cy="-18" rx="7.5" ry="13" fill="#fffaf2" transform="rotate(324)"/>
+      <circle r="8.5" fill="#edc466"/>
+      <circle cx="-2.3" cy="-2" r="1.3" fill="#fff4c7" opacity=".85"/>
+    </g>
+<g transform="translate(1080 83) rotate(-22) scale(0.58)" opacity="0.82">
+      <path d="M0 35 Q7 15 1 -10" fill="none" stroke="#9dbc9c" stroke-width="2.6" stroke-linecap="round"/>
+      <ellipse cx="-6" cy="16" rx="4" ry="10" transform="rotate(-42 -6 16)" fill="#9dbc9c"/>
+      <ellipse cx="8" cy="6" rx="4" ry="10" transform="rotate(42 8 6)" fill="#9dbc9c"/>
+      <ellipse cx="-4" cy="-4" rx="3.5" ry="8" transform="rotate(-35 -4 -4)" fill="#9dbc9c"/>
+    </g>
+<g transform="translate(178 29)" opacity="0.9"><path d="M0 -6.6 Q0.825 -0.825 6.6 0 Q0.825 0.825 0 6.6 Q-0.825 0.825 -6.6 0 Q-0.825 -0.825 0 -6.6Z" fill="#ffffff"/></g><g transform="translate(1011 97)" opacity="0.9"><path d="M0 -6 Q0.75 -0.75 6 0 Q0.75 0.75 0 6 Q-0.75 0.75 -6 0 Q-0.75 -0.75 0 -6Z" fill="#ffffff"/></g>
+<text x="600" y="59" text-anchor="middle" fill="#7f4964" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="1.7">CERTIFICATIONS &amp; SKILLS</text>
+<text x="600" y="88" text-anchor="middle" fill="#a76584" font-family="Verdana, Arial, sans-serif" font-size="15" letter-spacing="1.1">Growing my skills one step at a time</text>
+<text x="1156" y="112" text-anchor="middle" fill="#b87896" font-family="Verdana, Arial, sans-serif" font-size="12" letter-spacing="1.5">04</text>
+</svg>
